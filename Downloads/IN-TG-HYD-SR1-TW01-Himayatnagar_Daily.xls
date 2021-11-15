@@ -1,0 +1,918 @@
+SiteName	UtilityName	UtilityGroup	LocationName	LocationGroup	MeterName	Parameter	LineName	TxnDate	UomGraph	UomScale	Consumption	ValueMin	ValueMax	ValueAvg	DayName	Week	Month	Year
+IN-TG-HYD-SR1-TW01-Himayatnagar	DG	SUP	Panel	B1 Cellar	Electricity	kWh	Line3	21 Mar 2021	CUM	kWh	97.356	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	DG	SUP	Panel	B1 Cellar	Electricity	kW	Line4	21 Mar 2021	SIN	kW	0	51.122	65.108	57.042	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	KVAH	Line6	18 Mar 2021	CUM	KVAH	2545.12	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	kWh	Line5	18 Mar 2021	CUM	kWh	2267.36	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_1	Line11	18 Mar 2021	SIN	Amp	0	14.03	398.48	164.691	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_2	Line12	18 Mar 2021	SIN	Amp	0	4.34	355.36	141.731	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_3	Line13	18 Mar 2021	SIN	Amp	0	0	358.48	137.477	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	KVA	Line1	18 Mar 2021	SIN	KVA	0	4.43	252.01	106.382	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	PF	Line4	18 Mar 2021	SIN	PF	0	-0.999	0.999	-0.004	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_1	Line8	18 Mar 2021	SIN	Volt	0	234.23	256.62	246.455	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_2	Line9	18 Mar 2021	SIN	Volt	0	235.69	258.48	248.235	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_3	Line10	18 Mar 2021	SIN	Volt	0	234.37	256.66	246.42	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	KVAH	Line6	19 Mar 2021	CUM	KVAH	2222.08	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	kWh	Line5	19 Mar 2021	CUM	kWh	1957.28	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_1	Line11	19 Mar 2021	SIN	Amp	0	13.43	355.63	142.567	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_2	Line12	19 Mar 2021	SIN	Amp	0	4.47	309.45	122.212	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_3	Line13	19 Mar 2021	SIN	Amp	0	0	318.42	119.513	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	KVA	Line1	19 Mar 2021	SIN	KVA	0	4.41	230.48	92.344	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	PF	Line4	19 Mar 2021	SIN	PF	0	-0.999	0.999	0.596	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_1	Line8	19 Mar 2021	SIN	Volt	0	233.67	257.39	247.171	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_2	Line9	19 Mar 2021	SIN	Volt	0	235.06	259.47	248.939	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_3	Line10	19 Mar 2021	SIN	Volt	0	233.83	257.45	247.133	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	KVAH	Line6	20 Mar 2021	CUM	KVAH	2617.76	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	kWh	Line5	20 Mar 2021	CUM	kWh	2285.76	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_1	Line11	20 Mar 2021	SIN	Amp	0	13.24	396.65	168.899	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_2	Line12	20 Mar 2021	SIN	Amp	0	4.2	350.92	145.094	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_3	Line13	20 Mar 2021	SIN	Amp	0	0	351.07	136.614	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	KVA	Line1	20 Mar 2021	SIN	KVA	0	4.31	254.67	109.4	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	PF	Line4	20 Mar 2021	SIN	PF	0	-0.999	0.999	0.602	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_1	Line8	20 Mar 2021	SIN	Volt	0	236.16	256.72	246.929	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_2	Line9	20 Mar 2021	SIN	Volt	0	237.88	258.48	248.701	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_3	Line10	20 Mar 2021	SIN	Volt	0	236.32	256.3	246.903	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	KVAH	Line6	21 Mar 2021	CUM	KVAH	1943.68	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	kWh	Line5	21 Mar 2021	CUM	kWh	1696.96	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_1	Line11	21 Mar 2021	SIN	Amp	0	13.15	422.31	149.055	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_2	Line12	21 Mar 2021	SIN	Amp	0	4.18	368.88	122.503	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_3	Line13	21 Mar 2021	SIN	Amp	0	0	362.82	116.929	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	KVA	Line1	21 Mar 2021	SIN	KVA	0	4.26	272.99	95.15	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	PF	Line4	21 Mar 2021	SIN	PF	0	-0.999	0.999	0.677	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_1	Line8	21 Mar 2021	SIN	Volt	0	240.43	256.51	249.01	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_2	Line9	21 Mar 2021	SIN	Volt	0	242.14	258.27	250.943	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_3	Line10	21 Mar 2021	SIN	Volt	0	240.66	255.78	248.711	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	KVAH	Line6	22 Mar 2021	CUM	KVAH	2319.04	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	kWh	Line5	22 Mar 2021	CUM	kWh	2064.16	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_1	Line11	22 Mar 2021	SIN	Amp	0	13.42	401.98	149.002	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_2	Line12	22 Mar 2021	SIN	Amp	0	4.24	360.08	126.957	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Current_3	Line13	22 Mar 2021	SIN	Amp	0	0	360.31	122.54	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	KVA	Line1	22 Mar 2021	SIN	KVA	0	4.27	263.79	96.294	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	PF	Line4	22 Mar 2021	SIN	PF	0	-0.999	2	0.698	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_1	Line8	22 Mar 2021	SIN	Volt	0	230.39	252.78	242.957	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_2	Line9	22 Mar 2021	SIN	Volt	0	231.88	254.92	244.847	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	EB	SUP	Panel	B1 Cellar	Electricity	Voltage_3	Line10	22 Mar 2021	SIN	Volt	0	231.3	252.58	242.902	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	KVAH	Line6	18 Mar 2021	CUM	KVAH	1672.96	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	kWh	Line5	18 Mar 2021	CUM	kWh	1380.96	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	KVA	Line1	18 Mar 2021	SIN	KVA	0	0	203.09	70.532	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	PF	Line4	18 Mar 2021	SIN	PF	0	0.77	1	0.92	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_1	Line8	18 Mar 2021	SIN	Volt	0	233.44	256.76	246.166	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_2	Line9	18 Mar 2021	SIN	Volt	0	235.72	259.2	248.403	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_3	Line10	18 Mar 2021	SIN	Volt	0	234.48	256.88	246.455	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	KVAH	Line6	19 Mar 2021	CUM	KVAH	1499.52	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	kWh	Line5	19 Mar 2021	CUM	kWh	1220.48	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	KVA	Line1	19 Mar 2021	SIN	KVA	0	0	181.42	62.202	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	PF	Line4	19 Mar 2021	SIN	PF	0	0.755	1	0.917	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_1	Line8	19 Mar 2021	SIN	Volt	0	232.44	257.44	246.894	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_2	Line9	19 Mar 2021	SIN	Volt	0	234.46	259.93	249.118	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_3	Line10	19 Mar 2021	SIN	Volt	0	233.17	257.67	247.134	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	KVAH	Line6	20 Mar 2021	CUM	KVAH	1893.76	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	kWh	Line5	20 Mar 2021	CUM	kWh	1549.92	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	KVA	Line1	20 Mar 2021	SIN	KVA	0	0	212.13	78.962	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	PF	Line4	20 Mar 2021	SIN	PF	0	0.74	1	0.91	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_1	Line8	20 Mar 2021	SIN	Volt	0	235.07	256.71	246.593	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_2	Line9	20 Mar 2021	SIN	Volt	0	236.92	258.9	248.85	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_3	Line10	20 Mar 2021	SIN	Volt	0	235.96	256.38	246.885	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	KVAH	Line6	21 Mar 2021	CUM	KVAH	1322.08	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	kWh	Line5	21 Mar 2021	CUM	kWh	1079.2	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	KVA	Line1	21 Mar 2021	SIN	KVA	0	0	201.2	52.877	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	PF	Line4	21 Mar 2021	SIN	PF	0	0.785	1	0.936	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_1	Line8	21 Mar 2021	SIN	Volt	0	239.13	256.3	248.089	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_2	Line9	21 Mar 2021	SIN	Volt	0	238.88	258.51	250.236	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_3	Line10	21 Mar 2021	SIN	Volt	0	238.62	255.92	248.158	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	KVAH	Line6	22 Mar 2021	CUM	KVAH	1600	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	kWh	Line5	22 Mar 2021	CUM	kWh	1338.24	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	KVA	Line1	22 Mar 2021	SIN	KVA	0	0	202.52	65.521	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	PF	Line4	22 Mar 2021	SIN	PF	0	0.781	1	0.918	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_1	Line8	22 Mar 2021	SIN	Volt	0	229.78	252.69	242.63	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_2	Line9	22 Mar 2021	SIN	Volt	0	231.75	255.18	244.945	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Panel	B1 Cellar	Electricity	Voltage_3	Line10	22 Mar 2021	SIN	Volt	0	230.97	252.8	242.847	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	KVAH	Line6	18 Mar 2021	CUM	KVAH	652.56	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	kWh	Line5	18 Mar 2021	CUM	kWh	650.08	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	KVA	Line1	18 Mar 2021	SIN	KVA	0	0.18	46.37	27.1	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	PF	Line4	18 Mar 2021	SIN	PF	0	-0.998	0.88	-0.763	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_1	Line8	18 Mar 2021	SIN	Volt	0	234.09	256.6	246.341	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_2	Line9	18 Mar 2021	SIN	Volt	0	236.07	258.79	248.617	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_3	Line10	18 Mar 2021	SIN	Volt	0	234.4	256.44	246.348	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	KVAH	Line6	19 Mar 2021	CUM	KVAH	516.4	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	kWh	Line5	19 Mar 2021	CUM	kWh	514.48	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	KVA	Line1	19 Mar 2021	SIN	KVA	0	0.21	48.56	21.659	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	PF	Line4	19 Mar 2021	SIN	PF	0	-0.997	0.999	-0.035	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_1	Line8	19 Mar 2021	SIN	Volt	0	233.34	257.56	247.008	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_2	Line9	19 Mar 2021	SIN	Volt	0	235.31	260.02	249.289	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_3	Line10	19 Mar 2021	SIN	Volt	0	234.02	257.49	247.008	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	KVAH	Line6	20 Mar 2021	CUM	KVAH	518.8	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	kWh	Line5	20 Mar 2021	CUM	kWh	516.64	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	KVA	Line1	20 Mar 2021	SIN	KVA	0	0	46.29	21.52	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	PF	Line4	20 Mar 2021	SIN	PF	0	-0.997	1	-0.152	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_1	Line8	20 Mar 2021	SIN	Volt	0	235.43	256.95	246.768	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_2	Line9	20 Mar 2021	SIN	Volt	0	237.56	259.18	249.044	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_3	Line10	20 Mar 2021	SIN	Volt	0	235.58	256.41	246.777	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	KVAH	Line6	21 Mar 2021	CUM	KVAH	502.08	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	kWh	Line5	21 Mar 2021	CUM	kWh	500.24	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	KVA	Line1	21 Mar 2021	SIN	KVA	0	0	45.48	19.19	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	PF	Line4	21 Mar 2021	SIN	PF	0	-0.999	1	0.061	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_1	Line8	21 Mar 2021	SIN	Volt	0	239.37	256.61	248.345	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_2	Line9	21 Mar 2021	SIN	Volt	0	239.01	258.7	250.466	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_3	Line10	21 Mar 2021	SIN	Volt	0	239.23	255.8	248.076	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	KVAH	Line6	22 Mar 2021	CUM	KVAH	510.24	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	kWh	Line5	22 Mar 2021	CUM	kWh	508.32	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	KVA	Line1	22 Mar 2021	SIN	KVA	0	0.19	46.65	21.234	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	PF	Line4	22 Mar 2021	SIN	PF	0	-0.998	0.995	-0.103	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_1	Line8	22 Mar 2021	SIN	Volt	0	230.57	252.99	242.786	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_2	Line9	22 Mar 2021	SIN	Volt	0	232.74	255.31	245.15	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	Lighting	UTL	Panel	B1 Cellar	Electricity	Voltage_3	Line10	22 Mar 2021	SIN	Volt	0	231.41	252.67	242.731	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	1st Floor	Building	Environment	Humidity	Line2	18 Mar 2021	SIN	%RH	0	53	60.1	55.237	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	1st Floor	Building	Environment	Room Temp	Line1	18 Mar 2021	SIN	°C	0	21.5	27.8	23.4	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	2nd Floor	Building	Environment	Humidity	Line2	18 Mar 2021	SIN	%RH	0	52.9	68.9	58.18	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	2nd Floor	Building	Environment	Room Temp	Line1	18 Mar 2021	SIN	°C	0	24.6	27.4	25.706	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	Ground Floor	Building	Environment	Humidity	Line2	18 Mar 2021	SIN	%RH	0	46.2	63.7	55.592	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	Ground Floor	Building	Environment	Room Temp	Line1	18 Mar 2021	SIN	°C	0	21.4	27	25.327	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	1st Floor	Building	Environment	Humidity	Line2	19 Mar 2021	SIN	%RH	0	49.4	61.5	52.762	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	1st Floor	Building	Environment	Room Temp	Line1	19 Mar 2021	SIN	°C	0	21.2	26.6	21.929	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	2nd Floor	Building	Environment	Humidity	Line2	19 Mar 2021	SIN	%RH	0	50.6	57.3	53.473	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	2nd Floor	Building	Environment	Room Temp	Line1	19 Mar 2021	SIN	°C	0	24.5	26.8	25.042	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	Ground Floor	Building	Environment	Humidity	Line2	19 Mar 2021	SIN	%RH	0	40	55.3	47.498	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	Ground Floor	Building	Environment	Room Temp	Line1	19 Mar 2021	SIN	°C	0	21.5	26.8	25.061	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	1st Floor	Building	Environment	Humidity	Line2	20 Mar 2021	SIN	%RH	0	49.3	59.1	54.626	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	1st Floor	Building	Environment	Room Temp	Line1	20 Mar 2021	SIN	°C	0	20.7	26.6	21.775	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	2nd Floor	Building	Environment	Humidity	Line2	20 Mar 2021	SIN	%RH	0	51.8	65.2	53.86	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	2nd Floor	Building	Environment	Room Temp	Line1	20 Mar 2021	SIN	°C	0	24.1	26.6	24.731	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	Ground Floor	Building	Environment	Humidity	Line2	20 Mar 2021	SIN	%RH	0	46.6	61.2	53.703	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	Ground Floor	Building	Environment	Room Temp	Line1	20 Mar 2021	SIN	°C	0	21.2	27.5	24.906	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	1st Floor	Building	Environment	Humidity	Line2	21 Mar 2021	SIN	%RH	0	49.1	61.5	54.14	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	1st Floor	Building	Environment	Room Temp	Line1	21 Mar 2021	SIN	°C	0	20.7	26.7	22.481	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	2nd Floor	Building	Environment	Humidity	Line2	21 Mar 2021	SIN	%RH	0	50.7	60.6	54.901	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	2nd Floor	Building	Environment	Room Temp	Line1	21 Mar 2021	SIN	°C	0	24.4	27.2	25.537	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	Ground Floor	Building	Environment	Humidity	Line2	21 Mar 2021	SIN	%RH	0	45.9	60.5	50.165	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	Ground Floor	Building	Environment	Room Temp	Line1	21 Mar 2021	SIN	°C	0	21.4	27	24.96	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	1st Floor	Building	Environment	Humidity	Line2	22 Mar 2021	SIN	%RH	0	53.5	61.6	56.047	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	1st Floor	Building	Environment	Room Temp	Line1	22 Mar 2021	SIN	°C	0	21.2	27.2	22.593	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	2nd Floor	Building	Environment	Humidity	Line2	22 Mar 2021	SIN	%RH	0	52.7	60.9	56.211	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	2nd Floor	Building	Environment	Room Temp	Line1	22 Mar 2021	SIN	°C	0	24.3	26.7	24.946	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	Ground Floor	Building	Environment	Humidity	Line2	22 Mar 2021	SIN	%RH	0	48.5	62.8	53.225	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	IAQ	UTL	Ground Floor	Building	Environment	Room Temp	Line1	22 Mar 2021	SIN	°C	0	21.1	27.7	25.051	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	931	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	934	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	7.6	2.02	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	21.3	26.1	23.181	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	24	21.158	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	14	26.6	21.281	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	4.831	1.52	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	2.3	0.767	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	27.2	28.8	28.219	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	21	21	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	25	28.6	27.452	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	-0.833	0.833	0.031	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	757	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	757	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0.7	9.8	7.485	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	22.2	27.5	23.774	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	24	21.107	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	12.7	26.8	16.303	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	55.811	38.249	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	1432	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	1432	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	1.3	14.7	6.265	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	26.3	28.3	27.397	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	21	21	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	11.9	26.8	21.133	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	-1.166	2.832	0.372	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	758	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	758	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	3.8	0.896	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	22.5	27.1	24.115	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	24	21.107	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	19.2	27.6	23.62	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	47.981	32.494	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0.3	8.5	4.148	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	25.8	27.3	26.659	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	21	21	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	18.3	26.8	22.511	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	61.809	24.361	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	1432	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	1432	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	8.5	2.388	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	22.7	28.3	26.645	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	21	21	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	14.9	27.3	24.257	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	9.829	1.578	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	825	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	825	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	7.8	3.895	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	21.6	25.2	23.025	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	24	21.118	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	15	25.3	19.209	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	42.983	22.791	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	9.6	4.468	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	22.4	27.6	24.643	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	21	21	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	13.5	26.6	20.175	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	27.489	10.532	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	13.8	1.367	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	24.4	28.6	27.835	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	21	21	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	10.6	28.8	26.539	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	1.166	0.247	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	1443	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	1443	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	15.6	2.388	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	25.3	28.1	26.727	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	21	21	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	9.8	27.7	24.413	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	34.986	3.178	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	443	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	825	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	20.5	26.8	22.942	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	24	21.118	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	24.1	27.2	25.133	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	602	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	602	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0.3	9.8	9.025	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	20.3	26.5	25.688	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	21	21	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	14.8	26.3	21.972	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	16.493	6.146	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	1443	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	1443	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0.2	14.8	6.51	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	25	29.3	26.924	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	21	21	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	14.3	26	20.413	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	-0.333	15.994	5.489	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	0.4	0.238	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	26.2	27.7	27.018	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	21	21	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	25.9	27.6	26.78	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	1422	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	1.4	0.582	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	25.9	27.6	26.686	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	723054	5042.063	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	25.5	101803	732.919	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Comp RHT	Line5	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Unit RHT	Line4	18 Mar 2021	CUM	Min	1442	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	DeltaT Air	Line10	18 Mar 2021	SIN	°C	0	0	10.4	3.333	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Return Air Temp	Line1	18 Mar 2021	SIN	°C	0	22.9	26.5	24.897	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Set Temp	Line9	18 Mar 2021	SIN	°C	0	21	21	21	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Supply Air Temp	Line7	18 Mar 2021	SIN	°C	0	13.4	26.3	21.617	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Filter Pressure	Line6	18 Mar 2021	SIN	Pa	0	0	46.981	17.708	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Cooling Status	Line3	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Unit Status	Line2	18 Mar 2021	SWI	ON/OFF	0	0	0	0	Thu	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	654	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	654	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0	3.6	0.466	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	22.9	27.8	23.757	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	24	21.25	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	19.5	27	23.966	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	50.48	38.347	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0.5	8.4	3.925	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	25.9	27.1	26.282	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	18.1	25.9	22.357	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	74.637	28.608	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0	8.8	3.126	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	22.8	28.3	25.976	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	14.3	27.6	22.85	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	13.328	3.169	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	645	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	639	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	3.9	7.2	5.617	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	21.1	24.6	22.231	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	156198	2190.375	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	15.5	22.9	16.915	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	41.15	33.864	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0.4	10.2	4.788	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	22.1	26.5	24.06	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	12.7	25.3	19.272	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	28.322	10.9	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0	14.9	1.422	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	24.2	28.6	27.828	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	9.8	29	26.491	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	1.499	0.236	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	1444	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	1444	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0	16.5	1.915	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	24.8	27.7	26.558	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	8.5	27.5	24.761	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	-0.666	1	-0.002	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	38	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	645	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	19.8	26.3	20.89	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	24	21.292	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	23.6	26.6	24.234	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	793	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	793	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0	10.2	7.465	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	22	26.7	25.609	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	14.2	25.9	21.377	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	17.326	7.086	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	1434	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	1434	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0	2.7	0.569	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	23.6	26.6	25.513	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	23.8	26.6	25.451	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	-0.666	0.5	-0.034	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0	0.4	0.252	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	26.1	27.1	26.691	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	25.8	27	26.439	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0.1	1.5	0.571	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	26.1	27.5	26.779	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	25.7	26.6	26.207	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0	11.1	3.27	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	22.8	26	24.756	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	12.7	25.8	21.55	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	51.979	19.685	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	572	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	643	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0.2	9.6	5.467	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	21.1	25	22.224	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	24	21.292	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	12.3	25	17.453	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	3.499	2.21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	0.1	2	0.594	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	27.5	28.8	28.331	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	25.9	28.6	27.736	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	-1.166	0.666	-0.053	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	654	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	654	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	3.1	10	9.441	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	21.6	27.6	22.871	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	24	21.25	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	12.3	26.1	14.091	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	0	56.144	45.268	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Comp RHT	Line5	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Unit RHT	Line4	19 Mar 2021	CUM	Min	1445	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	DeltaT Air	Line10	19 Mar 2021	SIN	°C	0	1.6	15.8	6.288	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Return Air Temp	Line1	19 Mar 2021	SIN	°C	0	26.3	28.1	27.363	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Set Temp	Line9	19 Mar 2021	SIN	°C	0	21	21	21	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Supply Air Temp	Line7	19 Mar 2021	SIN	°C	0	11.3	26.4	21.075	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Filter Pressure	Line6	19 Mar 2021	SIN	Pa	0	-1	2.166	0.241	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Cooling Status	Line3	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Unit Status	Line2	19 Mar 2021	SWI	ON/OFF	0	0	0	0	Fri	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	635	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	635	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	4.7	0.918	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	22.6	27.7	23.155	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	24	21.068	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	18.3	26.9	22.958	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	0	52.646	43.902	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0.1	8.5	3.663	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	25.5	26.9	26.122	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	17.6	25.7	22.459	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	0	84.3	34.378	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1433	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1433	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	9	2.095	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	22.5	27.8	25.885	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	14.3	26.9	23.833	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	0	12.162	2.539	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	739	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	739	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	8	5.083	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	21.5	25	22.609	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	24	21.077	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	15.2	23.7	17.584	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	0	48.147	34.697	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1433	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1433	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	9.7	4.738	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	21.6	26.5	23.978	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	12	25.8	19.241	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	0	27.322	11.053	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	14	5.809	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	23	28.5	25.905	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	9.6	28.5	20.099	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	-0.5	0.833	0.021	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1433	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1433	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	14.6	2.218	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	24.5	27.8	26.02	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	10.5	27.5	23.891	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	-1	0.666	-0.02	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	212	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	739	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	20.3	25.8	21.643	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	24	21.077	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	23.9	26.3	24.569	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	8.7	1.553	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	21.4	26.5	24.032	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	13.9	26.1	23.111	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	0	16.827	7.055	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1443	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1443	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	13.4	6.067	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	24	28.1	26.416	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	13.3	26.6	20.379	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	-0.167	17.826	6.05	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0.1	0.5	0.282	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	25.8	27.1	26.483	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	25.4	27	26.201	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	1.3	0.566	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	25.5	27	26.375	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	25.2	26.3	25.81	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	-0.167	0	-0.003	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	10.3	2.898	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	22.9	25.8	24.669	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	13.3	25.6	21.824	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	0	59.31	22.563	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	736	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	739	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	7.5	2.455	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	21.3	25.4	22.587	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	24	21.077	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	14	26	20.155	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	-0.333	3.998	2.153	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1433	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1433	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0	9.8	4.501	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	23.7	28.9	26.457	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	14.4	28.8	21.959	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	-0.333	21.658	8.451	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	635	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	635	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	0.3	10.3	9.233	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	21.3	27.4	22.481	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	24	21.068	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	11.8	26.1	13.394	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	0	58.477	50.768	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Comp RHT	Line5	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Unit RHT	Line4	20 Mar 2021	CUM	Min	1432	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	DeltaT Air	Line10	20 Mar 2021	SIN	°C	0	1.3	14.7	5.379	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Return Air Temp	Line1	20 Mar 2021	SIN	°C	0	23.1	28.3	25.737	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Set Temp	Line9	20 Mar 2021	SIN	°C	0	21	21	21	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Supply Air Temp	Line7	20 Mar 2021	SIN	°C	0	9.9	26.4	20.358	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Filter Pressure	Line6	20 Mar 2021	SIN	Pa	0	-0.5	2.999	0.416	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Cooling Status	Line3	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Unit Status	Line2	20 Mar 2021	SWI	ON/OFF	0	0	0	0	Sat	Week :3	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	516	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	527	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0	8.5	2.949	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	21.3	25.4	22.592	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.1	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	13.6	26	19.748	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	3.998	2.156	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0	9.8	1.108	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	23.6	28	27.037	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	21	21	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	14.1	27.4	25.933	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	21.325	1.321	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	520	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	520	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0.8	10.2	6.674	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	21.5	27.7	23.862	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	21	21	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	12.5	26.7	17.188	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	57.477	36.604	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1390	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1436	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	1.2	11.2	2.639	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	9.2	27.5	25.929	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	21	21	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	12	25.6	23.81	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	-0.167	3.332	0.038	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	513	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	513	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0	3.5	0.794	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	22.6	28	24.584	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.15	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	19.5	27.4	24.204	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	53.479	32.169	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0.2	8.5	3.237	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	25.8	27	26.021	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.029	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	17.6	25.7	22.781	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	101.459	30.633	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1228	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1228	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0.3	8.7	3.224	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	23	28.3	25.978	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	21	21	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	14.7	27.2	22.754	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	16.16	3.333	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	528	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	528	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0.7	7.5	5.185	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	21.6	25.2	22.696	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.1	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	14.5	23.9	17.476	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	49.647	31.715	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0.4	9.4	3.864	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	21.9	25.5	23.924	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.024	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	12.9	24.6	20.056	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	29.322	8.587	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1399	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	1.3	13.3	6.078	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	22.6	26.6	24.68	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.029	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	9.8	25.3	18.629	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	-0.167	0.833	0.071	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1436	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1436	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0	15	2.31	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	24.6	27	25.956	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	21	21	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	10.6	27	23.835	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	-0.666	0.5	-0.003	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	277	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	529	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0	0.1	0.004	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	20.4	25.5	22.025	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.05	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	24.2	26.4	24.942	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0	7.6	0.831	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	21.5	25.5	23.869	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.029	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	14.1	26.6	23.841	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	17.493	5.462	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1425	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1425	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0.4	13.4	5.47	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	24	28.6	25.949	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.029	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	14.1	25.5	20.491	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	-0.167	16.66	4.572	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0	0.4	0.26	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	26.1	27	26.494	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.029	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	25.8	27	26.235	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1435	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0	1.3	0.528	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	24.7	27.9	26.356	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.029	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	24.8	27.4	25.834	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Comp RHT	Line5	21 Mar 2021	CUM	Min	1436	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Unit RHT	Line4	21 Mar 2021	CUM	Min	1436	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	DeltaT Air	Line10	21 Mar 2021	SIN	°C	0	0	10.2	2.565	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Return Air Temp	Line1	21 Mar 2021	SIN	°C	0	23.3	25.7	24.693	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Set Temp	Line9	21 Mar 2021	SIN	°C	0	21	24	21.029	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Supply Air Temp	Line7	21 Mar 2021	SIN	°C	0	13.5	26.8	22.234	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Filter Pressure	Line6	21 Mar 2021	SIN	Pa	0	0	63.308	18.613	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Cooling Status	Line3	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Unit Status	Line2	21 Mar 2021	SWI	ON/OFF	0	0	0	0	Sun	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	674	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	674	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0	3.6	0.964	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	21.8	27.6	23.806	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	18.2	26.5	23.403	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	59.643	41.507	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	 House Hold	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1439	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1439	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0.3	8.8	3.884	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	25.5	27.1	26.147	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	17.6	26.1	22.263	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	116.787	42.833	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ascot	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0.1	8.8	3.336	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	22.6	27.6	25.242	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	14.6	26.8	21.905	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	16.327	4.637	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Office	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	708	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	708	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0	7.3	4.812	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	21.1	26.3	22.851	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	24	21.277	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	15.3	27.1	18.406	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	53.145	33.113	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Cash Till	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0.3	9.1	4.276	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	21.8	26.8	23.927	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	13.1	25.5	19.651	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	28.822	10.733	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Diza Trial Room	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0	13.4	1.661	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	23.5	27.8	26.278	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	10.3	28	24.659	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	1.499	0.195	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	I/W Indian Wear	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0	15.6	1.87	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	24.5	27.1	26.113	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	9	27.4	24.43	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	-0.833	0.666	-0.016	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Knowledge Room	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	303	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	708	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	20.5	26.1	22.278	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	24	21.277	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	24.1	26.8	24.859	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Ladies Footwear	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0	9.7	3.757	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	22.1	26.3	25.28	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	15.3	26.3	21.685	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	18.159	7.157	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lift Front	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1448	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1448	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0.1	13	5.921	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	24.4	29.3	26.636	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	14.9	26	20.715	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	-0.333	17.16	5.626	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Lov	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0.1	0.4	0.27	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	25.9	27.2	26.5	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	25.6	27.1	26.231	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Mens Trail Room	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1439	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1418	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0.2	1.3	0.678	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	26.1	27.3	26.652	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	346051	2423.986	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	25.5	52203	388.313	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1438	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0	9.6	3.1	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	23.1	26.4	24.66	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	13.8	26.1	21.573	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	76.803	26.752	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Nuon Trail Room	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	714	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	720	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0	7.8	2.683	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	21	26.5	22.502	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	24	21.046	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	13.8	27.3	19.857	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	3.499	2.158	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	SassySodaT Room	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1439	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1439	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0.3	3.6	1.385	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	26.5	28.1	27.448	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	22.9	27.6	26.063	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	-1.166	1.833	-0.001	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Staff Room	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	674	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	674	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	0.6	9.7	7.816	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	21.3	26.8	22.871	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	12.3	25.9	15.055	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	0	61.142	46.638	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Technology	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Comp RHT	Line5	22 Mar 2021	CUM	Min	1439	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Unit RHT	Line4	22 Mar 2021	CUM	Min	1439	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	DeltaT Air	Line10	22 Mar 2021	SIN	°C	0	1.3	14	6.28	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Return Air Temp	Line1	22 Mar 2021	SIN	°C	0	25.8	27.6	26.818	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Set Temp	Line9	22 Mar 2021	SIN	°C	0	21	21	21	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Supply Air Temp	Line7	22 Mar 2021	SIN	°C	0	12	26.2	20.538	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Filter Pressure	Line6	22 Mar 2021	SIN	Pa	0	-0.167	2.999	0.705	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Cooling Status	Line3	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
+IN-TG-HYD-SR1-TW01-Himayatnagar	HVAC	UTL	Wear House	Building	HVAC  	Unit Status	Line2	22 Mar 2021	SWI	ON/OFF	0	0	0	0	Mon	Week :4	MAR	2021
