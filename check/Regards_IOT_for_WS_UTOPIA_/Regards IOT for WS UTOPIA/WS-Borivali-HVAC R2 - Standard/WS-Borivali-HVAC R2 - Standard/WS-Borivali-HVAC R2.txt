@@ -1,0 +1,54 @@
+Transmittal Report:
+Created by AutoCAD eTransmit 18 November 2021, 14:22.
+
+Drawing:
+This is a transmittal based on WS-Borivali-HVAC R2.dwg.
+
+Files:
+
+Root Drawing:
+	WS-Borivali-HVAC R2.dwg
+
+AutoCAD Drawing (External) References:
+	WS_UTOPIA _FIX_R6.dwg
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\AIA Color LWT by Object.ctb
+
+AutoCAD Plotter Configuration File References:
+	PlotCfgs\DWG To PDF.pc3
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\arial.ttf
+	Fonts\times.ttf
+	Fonts\romans.shx
+	Fonts\romand.shx
+	Fonts\calibrib.ttf
+	Fonts\calibri.ttf
+	Fonts\ltypeshp.shx
+	Fonts\swisscl.ttf
+	Fonts\complex.shx
+	Fonts\swissc.ttf
+	Fonts\GOTHIC.TTF
+	Fonts\ARIALNB.TTF
+	Fonts\ARIALN.TTF
+
+
+Notes for distribution:
+
+.DWG external reference files:
+External reference (xref) paths may be present.  Make sure these paths work or that the root drawing is using the correct references.
+eTransmit does not include files required by xrefs unless they are also required by the root drawing.  In particular, plot style tables and overlay xrefs that are not used by the root drawing are omitted
+
+.PC3 printer configuration files:
+Please copy these files to the AutoCAD Printer Configuration Search Path directory.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\voltas.consultant5\AppData\Roaming\Autodesk\MEP 2020\enu\Support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
